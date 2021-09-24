@@ -1,0 +1,27 @@
+.jar-container{
+    width: 70%;
+    box-sizing:border-box;
+    padding:0 25px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+.m-jar{
+    width: 25%;
+    padding:15px;
+    margin:10px;
+    border: 1px solid gainsboro;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.jar-image{
+    width: 100%;
+}
+
+.single-post-link{
+    text-decoration: none;
+    color:black;
+}

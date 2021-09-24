@@ -1,0 +1,23 @@
+.single-post-container{
+    width: 50%;
+    padding:20px;
+    margin:25px auto;
+    box-sizing: border-box;
+    background-color: white;
+}
+
+.single-p-img{
+    width: 100%;
+}
+
+.single-p-head{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 20px;
+}
+.sp{
+    padding: 0 10px;
+    cursor: pointer;
+}
